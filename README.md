@@ -1,12 +1,10 @@
 Hi, I'm Pradeep Shukla 👋
 
-Frontend Developer | Angular • React • TypeScript
-
-I build scalable, responsive, and high-performance web applications with modern frontend technologies.
+I build scalable, responsive, and high-performance web applications using modern web technologies.
 
 🛠️ Tech Stack
 
-Frontend: Angular • React • TypeScript • JavaScript • HTML • CSS
+Frontend: Angular • React • TypeScript • JavaScript
 Backend: Node.js • Express.js
 Database: PostgreSQL
 Tools: Git • GitHub • RxJS • REST APIs
@@ -15,9 +13,11 @@ Tools: Git • GitHub • RxJS • REST APIs
 
 Python • AI/ML • Advanced Backend Development
 
-🤝 Let's Connect
+🤝 Connect With Me
 
-"LinkedIn" (YOUR_LINKEDIN_URL) • "GitHub" (YOUR_GITHUB_URL)
+"LinkedIn" https://www.linkedin.com/in/pradeepshukla621
+
+
 
 <!--
 **pradeepshukla621/pradeepshukla621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

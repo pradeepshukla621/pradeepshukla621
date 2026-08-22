@@ -15,7 +15,7 @@ Python • AI/ML • Advanced Backend Development
 
 🤝 Connect With Me
 
-"LinkedIn" https://www.linkedin.com/in/pradeepshukla621
+LinkedIn: https://www.linkedin.com/in/pradeepshukla621
 
 
 

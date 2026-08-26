@@ -1,4 +1,4 @@
-Hi, I'm Pradeep Shukla 👋
+Hi, I'm Pradeep Shukla
 
 I build scalable, responsive, and high-performance web applications using modern web technologies.
 
@@ -12,10 +12,6 @@ Tools: Git • GitHub • RxJS • REST APIs
 🌱 Currently Learning
 
 Python • AI/ML • Advanced Backend Development
-
-🤝 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/pradeepshukla621
 
 
 

@@ -1,6 +1,6 @@
 Hi, I'm Pradeep Shukla
 
-I build scalable, responsive, and high-performance web applications using modern web technologies.
+Frontend Developer with 2+ years of experience building scalable, responsive, and high-performance web applications using modern web technologies.
 
 🛠️ Tech Stack
 

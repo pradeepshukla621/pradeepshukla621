@@ -1,7 +1,6 @@
 Hi, I'm Pradeep Shukla
 
-Frontend Developer with 2+ years of experience building scalable,
-responsive, and high-performance web applications.
+Frontend Developer with 2+ years of experience building scalable web applications.
 
 🛠️ Tech Stack
 

@@ -5,8 +5,11 @@ I build scalable, responsive, and high-performance web applications using modern
 🛠️ Tech Stack
 
 Frontend: Angular • React • TypeScript • JavaScript
+
 Backend: Node.js • Express.js
+
 Database: PostgreSQL
+
 Tools: Git • GitHub • RxJS • REST APIs
 
 🌱 Currently Learning
